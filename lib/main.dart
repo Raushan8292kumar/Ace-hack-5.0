@@ -4,7 +4,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gemini/flutter_gemini.dart';
-import 'api/ai_api_key.dart';
+import 'pages/ai_api_key.dart';
 import 'pages/app_home_page.dart';
 
 void main() async {
