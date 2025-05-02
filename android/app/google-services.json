@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957908341090",
+    "project_id": "arya-heck-auth",
+    "storage_bucket": "arya-heck-auth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957908341090:android:e9160e67a5a87e73addc3b",
+        "android_client_info": {
+          "package_name": "com.example.arya_heck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBrCW9mOOUhxHm3Y4Jjv9-CN6ZThpybrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
