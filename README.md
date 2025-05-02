@@ -1,6 +1,17 @@
 # arya_heck
-
+<br>
+<h>Application Name</h>
+<br>
+<h1>GovAssist</h1>
+<br>
+<h1>Designed a user-friendly platform to make government(Central & State) schemes easily accessible and understandable to the general public.</h1>
+  <br>
+  <h3>Developed a mobile application using Flutter, Firebase, Firestore, Gemini, Text-to-Speech (TTS), and Speech-to-Text (STT) to help users easily access and understand various government schemes. The app ensures inclusive access by integrating voice input/output and a user-friendly interface, targeting rural and underserved communities for better public service awareness. </h3>
 A new Flutter project.
+<br>
+<h2>App Working<h2>
+<br>
+<h3>The application opens with a home page accessible to all users. Upon login, the app stores user details and generates a personalized profile page. Logged-in users gain full access to advanced features such as AI chat and document guidance, while limited functionality is available to users who do not log in.<h3></h3>
 
 ## Getting Started
 
