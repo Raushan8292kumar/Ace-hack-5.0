@@ -1,10 +1,10 @@
-# arya_heck
+# ACE_HACK
 <br>
 <h>Application Name</h>
 <br>
-<h1>GovAssist</h1>
+<h1>मार्गदर्शी (Margadarshi)</h1>
 <br>
-<h1>Designed a user-friendly platform to make government(Central & State) schemes easily accessible and understandable to the general public.</h1>
+<h1>Designed a user-friendly platform to make government(Central & State)services and schemes easily accessible and understandable(in 22 lang + tts + user friendly font size) to the general public.</h1>
   <br>
   <h4>Developed a mobile application using Flutter, Firebase, Firestore, Gemini, Text-to-Speech (TTS), and Speech-to-Text (STT) to help users easily access and understand various government schemes. The app ensures inclusive access by integrating voice input/output and a user-friendly interface, targeting rural and underserved communities for better public service awareness. </h4>
 <br>
